@@ -52,4 +52,8 @@ const DUNDADUNDADUN = [
     quote:
       "Uh, if the food enters your body and exits it while it's still in the supermarket, it's technically not stealing.",
   },
+  {
+    quote:
+      "There's no such thing as evil people, just ordinary people who do bad things because they're unhappy. Jump.",
+  },
 ];
