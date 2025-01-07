@@ -54,6 +54,6 @@ const DUNDADUNDADUN = [
   },
   {
     quote:
-      "There's no such thing as evil people, just ordinary people who do bad things because they're unhappy. Jump.",
+      "There's no such thing as evil people, just ordinary people who do bad things because they're unhappy. Jump",
   },
 ];
