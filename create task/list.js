@@ -24,14 +24,14 @@ const DUNDADUNDADUN = [
   },
   {
     quote: "you can walk? yep! and unfortunately you can't anymore!",
-    season: "",
-    episode: "",
+    season: "5",
+    episode: "38",
   },
   {
     quote:
       "I dont know what that secret ingredient is but the customers just love your burgers! The secret ingredient is love",
-    season: "",
-    episode: "",
+    season: "5",
+    episode: "27",
   },
   {
     quote: "I can't lose this job I only have 37 dollars!",
@@ -40,20 +40,19 @@ const DUNDADUNDADUN = [
   },
   {
     quote: "79% of stair accidents happen on the stairs.",
-  },
-  {
-    quote: "Out of my way, my kids are in danger... of becoming their father!",
+    season: "1",
+    episode: "2",
   },
   {
     quote:
       "I think we all know where this is going so lets just skip to the end. *BOOM*",
-  },
+    season: "4",
+    episode: "6",
+    },
   {
     quote:
       "Uh, if the food enters your body and exits it while it's still in the supermarket, it's technically not stealing.",
-  },
-  {
-    quote:
-      "There's no such thing as evil people, just ordinary people who do bad things because they're unhappy. Jump",
+      season: "5",
+      episode: "17",
   },
 ];

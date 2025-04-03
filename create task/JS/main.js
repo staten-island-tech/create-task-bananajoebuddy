@@ -7,8 +7,6 @@
 // #/# questions correct
 
 
-const episode_input = 
-const season_episode = 
 
 //shuffle the array randomly and display it in order
 // make a function called curepisode/season that takes the episode and season of the current displayed quote

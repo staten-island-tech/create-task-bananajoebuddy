@@ -1,3 +1,6 @@
+
+
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -28,6 +31,15 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-image: url('../public/gumball.jpeg');
+  background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+.box {
+  text-align: center;
+  background-color: rgba(173, 216, 230, 0.7);
 }
 
 h1 {
